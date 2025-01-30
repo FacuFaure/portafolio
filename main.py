@@ -1,0 +1,6 @@
+#nombre = input("cual es tu nombre?")
+#print("hola, " + nombre)
+#edad = input("cual es tu edad?")
+#print("tu edad es " + edad)
+#pais = input("de donde eres?")
+#print("eres de " + pais)
