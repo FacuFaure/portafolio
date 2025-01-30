@@ -16,8 +16,10 @@ justify-content: space-between;
 justify-content:center;
 align-items: center;
 }
-.iniciob{
-    text-decoration: none;
+.botoncv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100px;
     border-radius: 100px;
     background-color: red;
